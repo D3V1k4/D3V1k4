@@ -1,4 +1,4 @@
-# Hi there, I'm Devika 👋
+# Hi there, I'm Devika
 
 ### Computer Science Student | Full-Stack Developer | AI Enthusiast
 
@@ -6,15 +6,15 @@ I'm a Computer Science student passionate about building impactful software, sol
 
 Currently exploring:
 
-* 💻 Full-Stack Development (MERN Stack)
-* 🤖 Artificial Intelligence & Machine Learning
-* ☁️ Cloud Computing & Microsoft Azure
-* 📊 Data Structures & Algorithms
-* 🚀 Software Engineering Best Practices
+Full-Stack Development (MERN Stack)
+Artificial Intelligence & Machine Learning
+Cloud Computing & Microsoft Azure
+Data Structures & Algorithms
+Software Engineering Best Practices
 
 ---
 
-## 🌱 What I'm Working On
+# What I'm Working On
 
 🔹 Building AI-powered applications and web platforms
 
@@ -26,63 +26,62 @@ Currently exploring:
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
-### Languages
+# Languages
 
-Python • JavaScript • C++ • SQL 
+Python • JavaScript • C++ 
 
-### Frontend
+# Frontend
 
 React.js • HTML • CSS • Tailwind CSS
 
-### Backend
+# Backend
 
 Node.js • Express.js • REST APIs
 
-### Database
+# Database
 
 MongoDB • MySQL
 
-### Cloud & Tools
+# Cloud & Tools
 
 Git • GitHub • Azure • Postman • VS Code
 
 ---
 
-## 🚀 Featured Projects
+# Featured Projects
 
-### Academic AI
+# Academic AI
 
 AI-powered academic assistant that helps students manage subjects, study plans, progress tracking, and personalized recommendations.
 
-### More Projects Coming Soon...
+# More Projects Coming Soon...
 
 Always building, always learning.
 
 ---
 
-## 📈 Current Goals
+# Current Goals
 
-* Build production-ready full-stack applications
-* Learn advanced AI integration techniques
-* Contribute to open-source projects
-* Earn Azure certifications
-* Secure software development internships
+ Build production-ready full-stack applications
+ Learn advanced AI integration techniques
+ Contribute to open-source projects
+ Earn Azure certifications
+ Secure software development internships
 
 ---
 
-## 📚 Beyond Technology
+# Beyond Technology
 
 Apart from software development, I'm interested in public policy, governance, and continuous self-improvement. I enjoy learning across disciplines and applying structured problem-solving to everything I do.
 
 ---
 
-## 🤝 Let's Connect
+# Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/devika-mano-sanan-61080b309/
-
-🌐 Portfolio: Coming Soon
+ LinkedIn: https://www.linkedin.com/in/devika-mano-sanan-61080b309/
+ Portfolio: Coming Soon
 
 ---
 
